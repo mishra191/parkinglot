@@ -1,0 +1,1 @@
+{  "rules": [    {      "id": "4",      "type": "0",      "min": 0,      "max": 240,      "fee": 30    },    {      "id": "5",      "type": "0",      "min": 240,      "max": 720,      "fee": 60    },    {      "id": "6",      "type": "0",      "min": 720,      "interval": 60,      "fee": 200    }  ]}\
